@@ -1,3 +1,3 @@
 # AttendanceManager
 
-[![Watch the video](https://j.gifs.com/k2QLzE.gif)](https://youtu.be/vCvC7UlSsRs)
+[![Watch the video](https://gifs.com/gif/attendance-manager-r2ZG94)](https://youtu.be/vCvC7UlSsRs)
